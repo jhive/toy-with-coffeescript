@@ -18,6 +18,9 @@
     "grunt-mocha-test": "~0.10.2",
     "grunt-clear": "~0.2.1",
     "load-grunt-tasks": "~0.4.0",
-    "grunt-contrib-coffee": "~0.10.1"
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-jade": "~0.4.0"
   }
 }
